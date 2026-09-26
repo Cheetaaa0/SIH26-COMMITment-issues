@@ -1,0 +1,28 @@
+﻿# Byte-compiled Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# Model weights - download locally, never commit
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Satellite imagery / large data files
+data/
+*.tif
+*.tiff
+
+# FAISS index files
+*.index
+*.faiss
+
+# OS junk files
+Thumbs.db
+.DS_Store
