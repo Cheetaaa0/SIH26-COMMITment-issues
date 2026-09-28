@@ -26,3 +26,7 @@ data/
 # OS junk files
 Thumbs.db
 .DS_Store
+
+temp/
+uploaded_tiles/
+default_tiles/
